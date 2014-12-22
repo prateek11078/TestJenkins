@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/prateek.mehra/AndroidStudioProjects/AndroidUI/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/prateek.mehra/AndroidStudioProjects/AndroidUI/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-51c2cb30de48313cdcd6c0f69d0c08ea9b959f29.jar" />
+    </item>
+    <item
+        jar="/Users/prateek.mehra/AndroidStudioProjects/AndroidUI/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/prateek.mehra/AndroidStudioProjects/AndroidUI/app/build/intermediates/pre-dexed/debug/classes-5981e2e46cd77d486ce729dbbe8802037dcfb208.jar" />
+    </item>
+    <item
+        jar="/Users/prateek.mehra/AndroidStudioProjects/AndroidUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/prateek.mehra/AndroidStudioProjects/AndroidUI/app/build/intermediates/pre-dexed/debug/classes-ada3ef3eab74100eb8eeb074a0258d4721b2ca5a.jar" />
+    </item>
+    <item
+        jar="/Users/prateek.mehra/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/prateek.mehra/AndroidStudioProjects/AndroidUI/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-38c6a6383464c95d15f659fafa4e180d42a0422e.jar" />
+    </item>
+
+</items>
